@@ -7,9 +7,8 @@ body,
 :root{
   height: 100%;
 }
-
  
-/* @layer base {
+ @layer base {
   :root {
     --background: 0 0% 100%;
     --foreground: 222.2 84% 4.9%;
@@ -82,4 +81,4 @@ body,
   body {
     @apply bg-background text-foreground;
   }
-} */
+} 
