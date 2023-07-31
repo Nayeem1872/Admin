@@ -54,7 +54,7 @@ export const columns: ColumnDef<ProductColumn>[] = [
   },
   {
     accessorKey: "isArchived",
-    header: "Archived",
+    header: "Stock Out",
   },
   {
     accessorKey: "createdAt",
